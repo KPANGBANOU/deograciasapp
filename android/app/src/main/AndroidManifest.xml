@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="deo.gracias.deograciasapgest">
+    package="escal.escalesapp.app">
    <application
-        android:label="Deo Gracias"
+        android:label="Escale App"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
